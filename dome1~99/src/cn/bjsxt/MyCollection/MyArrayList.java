@@ -88,6 +88,7 @@ public class MyArrayList {
          System.out.println(list.get(0));
          Human h = (Human) list.get(1);
          System.out.println(h.getName());
+         System.out.println("git");
 	}
 
 }
